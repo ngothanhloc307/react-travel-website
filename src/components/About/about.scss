@@ -126,7 +126,9 @@
 
 @media screen and (min-width: 1024px) {
   .about {
+    padding-top: 2rem !important;
     .secContainer {
+      padding: 1rem 3rem;
       .mainContent {
         padding: 2.5rem 0;
         grid-template-columns: repeat(3, 1fr);
